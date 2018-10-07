@@ -1,0 +1,12 @@
+<?xml version "1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Curtis Nix <nixc@g.cofc.edu> -->
+<component type="desktop">
+    <id>com.github.nixc0.ValaHelloWorld</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Hello World!<name>
+    <summary>Say hello to the Vala world!<summary>
+    <description>
+        <p>This is me enjoying the onboarding process to the Vala/Gtk3 world. I'm really enjoying diving into this on the ElementaryOS Juno Beta.
+    </description>
+</component>
+
